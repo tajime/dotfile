@@ -4,4 +4,4 @@
 "\~/"にcloneしてsetting.shを実行すると"\~/"に各設定ファイルのシンボリックリンクを作る
 
 #### winの場合
-"\C:User/name/"にcloneしてsetwin.shを実行すると"\~/"に各設定ファイルのコピーを作る
+"C:User/name/"にcloneしてsetwin.shを実行すると"\~/"に各設定ファイルのコピーを作る
