@@ -107,8 +107,16 @@ noremap <S-j> ^
 noremap <S-k> }
 noremap <S-i> {
 noremap <S-l> $
+
+" VScode用
+noremap J ^
+noremap K }
+noremap I {
+noremap L $
+
 noremap m %
 nnoremap <CR> A<CR><ESC>
+
 
 " auto reload .vimrc
 augroup source-vimrc
