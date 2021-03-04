@@ -99,19 +99,17 @@ set scrolloff=3
 
 "キーバインド
 inoremap <silent> jj <ESC>
-noremap i gk
-noremap h i
-noremap j h
-noremap k gj
-noremap <S-j> ^
-noremap <S-k> }
-noremap <S-i> {
+noremap j gj
+noremap k gk
+noremap <S-j> }
+noremap <S-k> {
+noremap <S-h> ^
 noremap <S-l> $
 
 " VScode用
-noremap J ^
-noremap K }
-noremap I {
+noremap J }
+noremap K {
+noremap I ^
 noremap L $
 
 noremap m %
