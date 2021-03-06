@@ -109,7 +109,7 @@ noremap <S-l> $
 " VScode用
 noremap J }
 noremap K {
-noremap I ^
+noremap H ^
 noremap L $
 
 noremap m %
